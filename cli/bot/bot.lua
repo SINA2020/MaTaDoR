@@ -15,15 +15,15 @@ local notify = lgi.require('Notify')
 notify.init ("Telegram updates")
 chats = {}
 plugins = {}
-MaTaDoR_sudo = 470777430 -- ایدی سودوی اصلی را قرار دهید
-GpsidSudo = -1001186137747
-bot_id = 440744894 -- ایدی ربات را قرار دهید
-helper_id = 499452614 -- ایدی ربات api را قرار دهید
-MaTaDoRch = '@EarthTeamReBoT' -- یوزرنیم کانال خود را قرار دهید
-MaTaDoRby = '@EarthTeamSupport' -- یوزرنیم خود را قرار دهید
-MaTaDoRbybot = '@EarthTeam_ReBoT'  -- یوزرنیم پیام رسان خود را قرار دهید
-paypinglink = 'speedteamspam' -- لینک payping  خود را قرار دهید
-paypingname = 'HoSsEiN NiKbAkHt' -- اسم خود را وارد نماید
+MaTaDoR_sudo = 166253826 -- ایدی سودوی اصلی را قرار دهید
+GpsidSudo = -1001070001315
+bot_id = 523667911 -- ایدی ربات را قرار دهید
+helper_id = 537159420 -- ایدی ربات api را قرار دهید
+MaTaDoRch = '@nice20team' -- یوزرنیم کانال خود را قرار دهید
+MaTaDoRby = '@shahin20nice' -- یوزرنیم خود را قرار دهید
+MaTaDoRbybot = '@nice_Pv_bot'  -- یوزرنیم پیام رسان خود را قرار دهید
+paypinglink = 'nice20' -- لینک payping  خود را قرار دهید
+paypingname = 'mohammadi' -- اسم خود را وارد نماید
 
 function do_notify (user, msg)
 	local n = notify.Notification.new(user, msg)
@@ -91,7 +91,7 @@ function create_config( )
     "Monshi",
 	"Rank"
 	},
-    sudo_users = {470777430,499452614,467058576}, -- در اینجا آیدی ربات api و cli  و سودو ها را وارد کنید
+    sudo_users = {537159420,166253826,523667911}, -- در اینجا آیدی ربات api و cli  و سودو ها را وارد کنید
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
