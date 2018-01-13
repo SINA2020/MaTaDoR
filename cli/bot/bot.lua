@@ -92,7 +92,7 @@ function create_config( )
     "Monshi",
     "Rank"
 	},
-    sudo_users = {537159420,166253826,523667911}, -- در اینجا آیدی ربات api و cli  و سودو ها را وارد کنید
+    sudo_users = {529178458,166253826,384241114}, -- در اینجا آیدی ربات api و cli  و سودو ها را وارد کنید
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
