@@ -86,7 +86,7 @@ function create_config( )
     "Help",
     "Limitmember",
     "Fun",
-    "Pyping",
+    "Payping",
     "Openchat",
     "Del-Chat",
     "Monshi",
