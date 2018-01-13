@@ -85,13 +85,12 @@ function create_config( )
     "Administrative",
     "Help",
     "Limitmember",
-    "Rank",
     "Fun",
     "Pyping",
     "Openchat",
     "Del-Chat",
     "Monshi",
-	"Rank"
+    "Rank"
 	},
     sudo_users = {537159420,166253826,523667911}, -- در اینجا آیدی ربات api و cli  و سودو ها را وارد کنید
     admins = {},
