@@ -1,4 +1,4 @@
-local SUDO = 470777430
+local SUDO = 166253826
 function exi_files(cpath)
     local files = {}
     local pth = cpath
