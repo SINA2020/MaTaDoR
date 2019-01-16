@@ -17,8 +17,8 @@ chats = {}
 plugins = {}
 MaTaDoR_sudo = 166253826 -- ایدی سودوی اصلی را قرار دهید
 GpsidSudo = -1001070001315
-bot_id = 384241114 -- ایدی ربات را قرار دهید
-helper_id = 529178458 -- ایدی ربات api را قرار دهید
+bot_id = 636278407 -- ایدی ربات را قرار دهید
+helper_id = 637087942 -- ایدی ربات api را قرار دهید
 MaTaDoRch = '@nice20team' -- یوزرنیم کانال خود را قرار دهید
 MaTaDoRby = '@shahin20nice' -- یوزرنیم خود را قرار دهید
 MaTaDoRbybot = '@nice_Pv_bot'  -- یوزرنیم پیام رسان خود را قرار دهید
@@ -92,7 +92,7 @@ function create_config( )
     "Monshi",
     "Rank"
 	},
-    sudo_users = {529178458,166253826,384241114}, -- در اینجا آیدی ربات api و cli  و سودو ها را وارد کنید
+    sudo_users = {166253826,636278407}, -- در اینجا آیدی ربات api و cli  و سودو ها را وارد کنید
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
